@@ -3,5 +3,5 @@ PowerShell based functions to Add and Remove a website from Internet Explorer's 
 
 ## Usage
 
-Add-IETrustedWebsite "example.com"
+Add-IETrustedWebsite "example.com" and
 Remove-IETrustedWebsite "example.com"
